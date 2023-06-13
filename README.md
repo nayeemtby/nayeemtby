@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nayeemtby
 - 👀 I’m interested in Application Development, AI, Problem Solving.
 - 🎓 Flutter intemediate.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Android Native, gRPC, protobufs.
 
 
 [![linked](https://user-images.githubusercontent.com/29401466/87295135-935d0f00-c526-11ea-8f5a-208be1bd116d.png)](https://www.linkedin.com/in/nayeemtby/)
