@@ -3,8 +3,6 @@
 - 🎓 Flutter `Intemediate`.
 - 🌱 I’m currently learning `Android Native`, `gRPC`, `protobufs`.
 
-
-[![linked](https://user-images.githubusercontent.com/29401466/87295135-935d0f00-c526-11ea-8f5a-208be1bd116d.png)](https://www.linkedin.com/in/nayeemtby/)
 <!--- - 📫 How to reach me ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
