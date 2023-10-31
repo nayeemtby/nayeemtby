@@ -1,7 +1,7 @@
 - 👋 Hi, I’m `@nayeemtby`
 - 👀 I’m interested in `Application Development`, `AI`, `Problem Solving`.
 - 🎓 Flutter `intermediate`.
-- 🌱 I’m currently learning `Android Native`, `gRPC`, `protobuf`.
+- 🌱 I’m currently learning `Sveltekit`, `Go`, `gRPC`.
 
 <!--- - 📫 How to reach me ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
