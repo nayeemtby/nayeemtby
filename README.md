@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `@nayeemtby`
 - 👀 I’m interested in `Application Development`, `AI`, `Problem Solving`.
-- - 🌱 I’m currently learning `Sveltekit`, `React native`.
+- 🌱 I’m currently learning `Sveltekit`, `React native`.
 - 🎓 .Net Core `intermediate`.
 - 🎓 Svelte `intermediate`.
 - 🎓 Flutter `intermediate`.
