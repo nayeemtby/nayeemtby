@@ -1,8 +1,8 @@
 - 👋 Hi, I’m `@nayeemtby`
 - 👀 I’m interested in `Application Development`, `AI`, `Problem Solving`.
-- 🌱 I’m currently learning `Sveltekit`, `React native`.
+- 🌱 I’m currently practicing `Spec-Driven Test guarded development` to make agents go brrr.
 - 🎓 .Net Core `intermediate`.
-- 🎓 Svelte `intermediate`.
+- 🎓 Sveltekit `intermediate`.
 - 🎓 Flutter `intermediate`.
 
 
