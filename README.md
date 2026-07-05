@@ -5,6 +5,8 @@
 - 🎓 Sveltekit `intermediate`.
 - 🎓 Flutter `intermediate`.
 
+For some roles framework/language `proficiency` is obsolete.
+
 
 <!--- - 📫 How to reach me ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
